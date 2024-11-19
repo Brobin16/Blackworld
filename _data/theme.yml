@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: odetta
+featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pinterest.com%2Fpin%2Fjonubian--462674561734318371%2F&psig=AOvVaw3f3nCtulSHZv4_4vJ-FBd-&ust=1732140977074000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj6upO26YkDFQAAAAAdAAAAABAb
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
